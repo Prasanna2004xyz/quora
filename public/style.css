@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.posts {
+    background-color:blanchedalmond;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    height: 100px;
+    width: 500px;
+   
+}
+
+.user {
+    color: #333;
+    font-weight: bold;
+}
+
+.content {
+    color: #666;
+}
+h1{
+    color: maroon;
+}
